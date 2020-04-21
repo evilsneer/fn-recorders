@@ -1,4 +1,4 @@
-(defproject emptyone/fn-recorders "0.1.1-SNAPSHOT"
+(defproject emptyone/fn-recorders "0.1.1"
   :description "Small lib for recording to atoms+files time of function execution (profiling) or function call results."
   :url "https://github.com/evilsneer/fn-recorders"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
