@@ -4,6 +4,12 @@ Small lib for recording to atoms+files times of function execution (profiling) o
 
 ## Usage
 
+Leiningen
+
+    [emptyone/fn-recorders "0.1.1"]
+
+## Example 
+
     ; just pretend we have a function (or several of them):
     (defn long-f []
       (let [wait-for (rand-int 300)]
